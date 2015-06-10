@@ -1,0 +1,7 @@
+Django==1.6.7
+django-admin-honeypot
+django-celery
+django-htmlmin
+Pillow
+
+#redis et al ---
